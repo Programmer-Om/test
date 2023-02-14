@@ -1,0 +1,54 @@
+body {
+  font-size: 15pt;
+  background-color: white
+}
+
+h3 {
+  position: relative;
+  color: #0010C5;
+  left: 70px;
+
+}
+
+h4 {
+  position: relative;
+  color: #0010C5;
+  left: 55px;
+  bottom: 25px;
+}
+
+p{
+  color: #0010C5;
+}
+
+
+
+nav {
+  width: 440px;
+  height: 30px;
+  background-color: white;
+  color: #0010C5;
+  word-spacing: 30px;
+  text-align: center;
+  
+}
+a:visited{
+  color: #0010C5;
+}
+.uo{
+  
+  background-color: #5F00FF;
+  width: 440px;
+  height: 5px;
+  
+}
+
+.aa{
+    background-color: #5F00FF;
+    width: 440px;
+    height: 5px;
+}
+
+h1{
+  color: #0010C5;
+}
